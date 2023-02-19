@@ -1,3 +1,4 @@
-# ADEduKitContentApp
+#  ClassKit Content App
 
-Test push
+Helper App to test and demonstrate features of ADEduKit
+

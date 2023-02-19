@@ -1,0 +1,83 @@
+{
+    "id": "com.admadic.adedukit.ADEduKitContentApp",
+    "title": "ADEduKitContentApp-Root",
+    "title-de": "ADEduKitContentApp-Root(de)",
+    "title-en": "ADEduKitContentApp-Root(en)",
+    "type": "metagroup",
+    "topic": "music",
+    "summary": "ADEduKitContentApp-Summary",
+    "summary-en": "ADEduKitContentApp-Summary(de)",
+    "summary-de": "ADEduKitContentApp-Summary(en)",
+    "children": [
+        {
+            "id": "child-1",
+            "title": "Child-1",
+            "title-de": "Child-1(de)",
+            "title-en": "Child-1(en)",
+            "type": "group",
+            "topic": "music",
+            "summary": "Summary-1",
+            "summary-de": "Summary-1(de)",
+            "summary-en": "Summary-1(en)",
+            "children": [
+                {
+                    "id": "child-1-1",
+                    "title": "Child-1-1",
+                    "title-de": "Child-1-1(de)",
+                    "title-en": "Child-1-1(en)",
+                    "type": "task",
+                    "topic": "music",
+                    "summary": "Summary-1-1",
+                    "summary-de": "Summary-1-1(de)",
+                    "summary-en": "Summary-1-1(en)",
+                },
+                {
+                    "id": "child-1-2",
+                    "title": "Child-1-2",
+                    "title-de": "Child-1-2(de)",
+                    "title-en": "Child-1-2(en)",
+                    "type": "task",
+                    "topic": "music",
+                    "summary": "Summary-1-2",
+                    "summary-de": "Summary-1-2(de)",
+                    "summary-en": "Summary-1-2(en)",
+                }
+            ]
+        },
+        {
+            "id": "child-2",
+            "title": "Child-2",
+            "title-de": "Child-2(de)",
+            "title-en": "Child-2(en)",
+            "type": "group",
+            "topic": "music",
+            "summary": "Summary-2",
+            "summary-de": "Summary-2(de)",
+            "summary-en": "Summary-2(en)",
+            "children": [
+                {
+                    "id": "child-2-1",
+                    "title": "Child-2-1",
+                    "title-de": "Child-2-1(de)",
+                    "title-en": "Child-2-1(en)",
+                    "type": "task",
+                    "topic": "music",
+                    "summary": "Summary-2-1",
+                    "summary-de": "Summary-2-1(de)",
+                    "summary-en": "Summary-2-1(en)",
+                },
+                {
+                    "id": "child-2-2",
+                    "title": "Child-2-2",
+                    "title-de": "Child-2-2(de)",
+                    "title-en": "Child-2-2(en)",
+                    "type": "task",
+                    "topic": "music",
+                    "summary": "Summary-2-2",
+                    "summary-de": "Summary-2-2(de)",
+                    "summary-en": "Summary-2-2(en)",
+                }
+            ]
+        },
+    ]
+}
